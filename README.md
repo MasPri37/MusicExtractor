@@ -1,8 +1,8 @@
 ---
-title: Demucs Music Source Separation (v4)
-emoji: ⚡
-colorFrom: red
-colorTo: purple
+title: Extract Stems
+emoji: null
+colorFrom: gray
+colorTo: gray
 sdk: gradio
 app_file: app.py
 pinned: true
